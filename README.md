@@ -1,1 +1,1 @@
-# gcp-devops-project : This is a demo GCP Devops Project
+# gcp-devops-project : This is a demo GCP Devops Project. Demo Project.
